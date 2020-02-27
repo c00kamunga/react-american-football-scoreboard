@@ -1,5 +1,6 @@
 import React, {useState} from 'react'
 
+
 export default function Away() {
     const [awayScore, setAwayScore] = useState(0);
     return (
