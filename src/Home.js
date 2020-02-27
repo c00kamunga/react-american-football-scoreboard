@@ -15,7 +15,6 @@ export default function Home() {
           </div>
           <div className="timer">00:03</div>
         </div>
-        <BottomRow />
       </section>
       <section className="buttons">
         <div className="homeButtons">
